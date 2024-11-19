@@ -8,8 +8,8 @@ export default function Home() {
       <p className="text-lg text-yellow-600 dark:text-yellow-400">
         In-Progress! Check back soon.
       </p>
-      <p className="text-lg text-white-700 dark:text-white-500">
-      shreyashg.com
+      <p className="text-lg">
+        <a href="https://shreyashg.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">Visit shreyashg.com</a>
       </p>
     </div>
   );
