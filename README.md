@@ -1,3 +1,11 @@
+# Tradio
+This project is going to be tracking my Algo Portfolio performance compared to the SP500. Lets see how this goes.
+
+
+
+# Below is Vercel default documentation
+--------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
