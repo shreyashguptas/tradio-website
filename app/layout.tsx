@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Montserrat } from "next/font/google";
+import { SpeedInsights } from "@vercel/speed-insights/next" // Adding the package for Vercel Speed Insights
 
 const montserrat = Montserrat({
   subsets: ["latin"],
