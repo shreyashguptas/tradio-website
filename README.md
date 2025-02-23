@@ -1,6 +1,7 @@
 # Tradio
 This project is going to be tracking my Algo Portfolio performance compared to the SP500. Lets see how this goes.
 
+For this, I can develop a straight portfolio where my machine learning algorithms will create a portfolio that rebalances by itself every so often and a chart compares the S&P 500 to the portfolio that is gonna be created and that’s gonna be the whole website. 
 
 
 # Below is Vercel default documentation
